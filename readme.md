@@ -88,7 +88,7 @@ https://www.dropbox.com/scl/fo/y3naz62gy6f6qfrhquu7u/h?rlkey=ejltdhb262zglm7eo6y
 or from https://ephe.scryr.io/jpl/  which is a web space provided by  Phillip McCabe
 
 
-## Asteroid files for all available numbered asteroids (more than 760'000)
+## Asteroid files for all available numbered asteroids (more than 895'000 as of June 2026)
 
 Asteroids are organized in folders of 1000 asteroids each, 
 available in Alois' public Dropbox area in folder 'all_ast' with this link:
@@ -97,9 +97,10 @@ Named asteroids have 'long file' with suffix .se1; they cover each 6000 years fr
 
 Since an update in April 2026, long and short files are the same directories.
 
-https://www.dropbox.com/scl/fo/y3naz62gy6f6qfrhquu7u/h?rlkey=ejltdhb262zglm7eo6yfj2940&dl=0
+Simplest download from https://ephe.scryr.io/ephe , the web space provided by Phillip McCabe.
 
-or from https://ephe.scryr.io/ephe , the web space provided by Phillip McCabe.
+or from
+https://www.dropbox.com/scl/fo/y3naz62gy6f6qfrhquu7u/h?rlkey=ejltdhb262zglm7eo6yfj2940&dl=0
 
 The total volume was 48 Gb in June 2026.
 
